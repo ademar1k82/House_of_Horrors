@@ -4,6 +4,7 @@ Made for Bachelor's Degree discipline of Advanced 3D Programming Techniques (rep
 <div align="center">
 <img width="400" height="600" src="Main.png">
 </div>
+
 ## Shaders Only
 <div align="center">
 <img src="logos/surface - roof.png" width="30%" />
@@ -23,8 +24,12 @@ Geometry Shader (Extrude) * Geometry Shader (Triangles)
 Post Processing Shader (Glitch-Blur Effect) * Post Processing Shader (Sobel-Gaussian Effect) * Post Processing Shader (Ending Spotlight)
 Vertex/Fragment Shader (Fresnel) * Vertex/Fragment Shader (Hologram) * Vertex/Fragment Shader (Section-Reveal)
 
-## Contributions
-Any contibution is always welcome.
+## The Video
+<div align="center">
+  <video width="80%" controls>
+    <source src="HOHF.mp4" type="video/mp4">
+  </video>
+</div>
 
 
 ## Makers
