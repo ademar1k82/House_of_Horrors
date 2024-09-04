@@ -26,7 +26,9 @@ Vertex/Fragment Shader (Fresnel) * Vertex/Fragment Shader (Hologram) * Vertex/Fr
 
 ## The Video
 <div align="center">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/kauwCqu5N4o?si=_HFsZKWjTIBdQ9_v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <a href="https://www.youtube.com/watch?v=kauwCqu5N4o">
+    <img src="https://img.youtube.com/vi/kauwCqu5N4o/0.jpg" alt="Assista ao vídeo" width="80%">
+  </a>
 </div>
 
 
