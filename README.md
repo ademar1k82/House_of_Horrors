@@ -1,9 +1,9 @@
 # House of Horrors
 Package of Shaders to be used in Unity3D
 Made for Bachelor's Degree discipline of Advanced 3D Programming Techniques (report in Portuguese included)
-
-<img align="center" width="400" height="600" src="Main.png">
-
+<div align="center">
+<img width="400" height="600" src="Main.png">
+</div>
 ## Shaders Only
 <div align="center">
 <img src="logos/surface - roof.png" width="30%" />
@@ -17,7 +17,7 @@ Made for Bachelor's Degree discipline of Advanced 3D Programming Techniques (rep
 <img src="logos/ghost.png" width="30%" />
 <img src="logos/high.png" width="30%" />
 <img src="logos/what.png" width="30%" /><br>
-</div>
+</div><br>
 Surface Shader (Dissolve) * Triplanar Shader (Terrain) * Grabpass shader (Multiple)
 Geometry Shader (Extrude) * Geometry Shader (Triangles)
 Post Processing Shader (Glitch-Blur Effect) * Post Processing Shader (Sobel-Gaussian Effect) * Post Processing Shader (Ending Spotlight)
