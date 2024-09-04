@@ -5,6 +5,7 @@ Made for Bachelor's Degree discipline of Advanced 3D Programming Techniques (rep
 <img align="center" width="400" height="600" src="Main.png">
 
 ## Shaders Only
+<div align="center">
 <img src="logos/surface - roof.png" width="30%" />
 <img src="logos/SpookyGround.png" width="30%" />
 <img src="logos/weirdMirror.png" width="30%" />
@@ -23,7 +24,7 @@ Post Processing Shader (Glitch-Blur Effect) * Post Processing Shader (Sobel-Gaus
 <img src="logos/high.png" width="30%" />
 <img src="logos/what.png" width="30%" />
 Vertex/Fragment Shader (Fresnel) * Vertex/Fragment Shader (Hologram) * Vertex/Fragment Shader (Section-Reveal)
-
+</div>
 
 
 ## Contributions
